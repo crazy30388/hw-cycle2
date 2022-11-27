@@ -127,7 +127,7 @@ public class Main {
             }
             year += period;
         }
-        System.out.println("Дз-3, задание 2, do-whail");
+        System.out.println("Дз-3, задание 2, do-whail.");
         for (int i2 = 2; i2 <= 2; i2++) {
             for (int j = 1; j <= 10; j++) {
                 System.out.println(i2 + " x " + j + " = " + (i2*j));
